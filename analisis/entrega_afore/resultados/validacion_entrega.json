@@ -1,0 +1,12 @@
+{
+  "notebook": "ejecutado completo sin errores",
+  "celdas_codigo": 11,
+  "reglas_calidad_sin_incidencias": 10,
+  "tablero": {
+    "filtros": "OK",
+    "priorizacion": "OK",
+    "descarga_CSV": "OK",
+    "errores_JS": 0
+  },
+  "modelos": "evaluacion temporal; ver metricas y limitaciones"
+}

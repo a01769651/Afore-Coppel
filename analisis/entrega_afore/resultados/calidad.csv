@@ -1,0 +1,11 @@
+,incidencias
+Llaves duplicadas,0
+Periodos fuera de rango,0
+Saldos negativos,0
+SBC nulo con semanas positivas,0
+SBC informado sin semanas,0
+Dormant incompatible con actividad,0
+Dos salidas terminales simultáneas,0
+Fila después de salida terminal,0
+Saltos entre observaciones,0
+Identidad saldo: error mayor a $0.05,0

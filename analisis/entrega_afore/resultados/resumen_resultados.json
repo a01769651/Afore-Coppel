@@ -1,0 +1,22 @@
+{
+  "filas": 86737,
+  "cuentas": 12500,
+  "snapshot_2025": 10037,
+  "churn_modelo": "Boosting",
+  "churn_PR_AUC_test": 0.02646267019193766,
+  "churn_prevalencia_test": 0.015038363171355498,
+  "churn_Brier_test": 0.02611559142394755,
+  "valor_modelo": "Ridge",
+  "valor_MAE_test": 221.7715758979421,
+  "valor_cobertura_nominal": 0.9,
+  "valor_cobertura_observada_test": 0.9795148925474425,
+  "valor_radio_intervalo_MXN": 620.337818586434,
+  "k_seleccionados": {
+    "K-means": 3,
+    "K-medoids": 3
+  },
+  "confiabilidad_intervalo_valor": "Cobertura temporal alcanza el nivel nominal; no garantiza futuro",
+  "CLTV_neto": "No identificado: faltan costos y descuento definidos por el negocio",
+  "ROI_campana": "No identificado: faltan costos y efecto incremental",
+  "naturaleza": "Datos sintéticos; no extrapolar a cartera real"
+}
